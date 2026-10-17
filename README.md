@@ -15,7 +15,7 @@
 也可以先下载再运行：
 
 ```bash
-curl -fL -o sui-ssl-setup.sh https://raw.githubusercontent.com/OWNER/REPO/main/sui-ssl-setup.sh
+curl -fL -o sui-ssl-setup.sh https://raw.githubusercontent.com/lulu118-sketch/sui-https-setup/main/sui-ssl-setup.sh
 chmod +x sui-ssl-setup.sh
 sudo bash ./sui-ssl-setup.sh
 ```

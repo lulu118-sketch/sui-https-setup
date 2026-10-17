@@ -6,7 +6,6 @@
 
 ## Debian 13 / Ubuntu 一键运行
 
-将仓库发布到 GitHub 后，把下面的 `OWNER/REPO` 替换为实际仓库路径：
 
 ```bash
  bash <(curl -fsSL https://raw.githubusercontent.com/lulu118-sketch/sui-https-setup/main/sui-ssl-setup.sh)

@@ -9,7 +9,7 @@
 将仓库发布到 GitHub 后，把下面的 `OWNER/REPO` 替换为实际仓库路径：
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/OWNER/REPO/main/sui-ssl-setup.sh)
+ bash <(curl -fsSL https://raw.githubusercontent.com/lulu118-sketch/sui-https-setup/main/sui-ssl-setup.sh)
 ```
 
 也可以先下载再运行：
